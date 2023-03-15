@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Android MVVM Architecture - Movie App</string>
+    <string name="todo">TODO</string>
+    <string name="delete">Delete</string>
+    <string name="mov">mOV</string>
+    <string name="add_movie">ADD MOVIE</string>
+    <string name="title">Title</string>
+    <string name="_1995">1995</string>
+    <string name="network_error">Network Error. Try Again?</string>
+    <string name="ok">OK</string>
+    <string name="error">Error</string>
+    <string name="message_validate_can_movie_saved">You must enter a title and year</string>
+    <string name="message_validate_can_movie_search">You must enter a Year</string>
+</resources>
